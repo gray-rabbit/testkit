@@ -7,7 +7,9 @@ const config = {
 	preprocess: preprocess(),
 
 	kit: {
-
+		paths:{
+			base:"/testkit/build"
+		},
 		adapter: adapter({
 			pages: 'build',
 			assets: 'build',
