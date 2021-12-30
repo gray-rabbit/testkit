@@ -12,7 +12,7 @@ const config = {
 			pages: 'build',
 			assets: 'build',
 			fallback: null,
-			precompress: true
+			precompress: true,
 		}),
 
 		// hydrate the <div id="svelte"> element in src/app.html
