@@ -1,0 +1,233 @@
+[
+  {
+    "subject": "수학",
+    "factor": "도형",
+    "description": "입체도형, 평면도형, 삼각형, 사각형, 원, 직선, 선분, 대칭, 합동, 전개도, 평면도",
+    "grade1": 1,
+    "grade2": 1,
+    "grade3": 1,
+    "grade4": 1,
+    "grade5": 1,
+    "grade6": 1
+  },
+  {
+    "subject": "수학",
+    "factor": "측정",
+    "description": "길이, 넓이, 부피, 시각, 시간, 들이, 무게, 각, 둘레, 겉넓이",
+    "grade1": 1,
+    "grade2": 1,
+    "grade3": 1,
+    "grade4": 1,
+    "grade5": 1,
+    "grade6": 1
+  },
+  {
+    "subject": "통합",
+    "factor": "학교",
+    "description": "학교 생활, 규칙, 약속, 친구, 흥미, 재능, 건강, 역할 ",
+    "grade1": 1,
+    "grade2": 1,
+    "grade3": null,
+    "grade4": null,
+    "grade5": null,
+    "grade6": null
+  },
+  {
+    "subject": "통합",
+    "factor": "가족",
+    "description": "친척, 예절, 다양성, 존중, 가족 구성원, 집의 모습, 혼인 풍습, 가족 형태, 역할, ",
+    "grade1": 1,
+    "grade2": 1,
+    "grade3": 1,
+    "grade4": 1,
+    "grade5": null,
+    "grade6": null
+  },
+  {
+    "subject": "통합",
+    "factor": "계절",
+    "description": "봄, 여름, 가을, 겨울, 동물, 식물, 생명, 날씨, 생활 도구, 놀이, 명절, 세시풍속",
+    "grade1": 1,
+    "grade2": 1,
+    "grade3": null,
+    "grade4": null,
+    "grade5": null,
+    "grade6": null
+  },
+  {
+    "subject": "통합",
+    "factor": "마을",
+    "description": "공공장소, 이웃, 공중도덕, 동네, 직업, 일의 소중함 예절, 동네 모습",
+    "grade1": 1,
+    "grade2": 1,
+    "grade3": null,
+    "grade4": null,
+    "grade5": null,
+    "grade6": null
+  },
+  {
+    "subject": "통합",
+    "factor": "우리나라",
+    "description": "북한, 통일, 상징, 문화, 독도, 애국심, 공익, 국토, 행정구역, 자연환경, 인문 환경, 역사, 자연재해 ",
+    "grade1": 1,
+    "grade2": 1,
+    "grade3": 1,
+    "grade4": 1,
+    "grade5": 1,
+    "grade6": 1
+  },
+  {
+    "subject": "통합",
+    "factor": "세계",
+    "description": "세계 문화, 존중, 공감, 글로벌 에티켓, 다문화, 세계 시민, 지속가능한 미래, 영토, 기후, 세계지리",
+    "grade1": 1,
+    "grade2": 1,
+    "grade3": 1,
+    "grade4": 1,
+    "grade5": 1,
+    "grade6": 1
+  },
+  {
+    "subject": "사회",
+    "factor": "경제",
+    "description": "자원의 희소성, 생산, 시장, 소비, 물자 교환, 교류, 경제 활동, 합리적 선택, 경제 성장",
+    "grade1": null,
+    "grade2": null,
+    "grade3": 1,
+    "grade4": 1,
+    "grade5": 1,
+    "grade6": 1
+  },
+  {
+    "subject": "사회",
+    "factor": "사회문화",
+    "description": "사회 변화, 편견, 차별, 문화 존중, 교통・통신・산업의 발달, 인구, 생활 모습, 도시, 촌락",
+    "grade1": null,
+    "grade2": null,
+    "grade3": 1,
+    "grade4": 1,
+    "grade5": 1,
+    "grade6": 1
+  },
+  {
+    "subject": "사회",
+    "factor": "고장・지역",
+    "description": "고장의 모습, 지도, 지리, 의식주, 역사적 유래, 문화유산, 역사 인물, 공공 기관, 중심지",
+    "grade1": null,
+    "grade2": null,
+    "grade3": 1,
+    "grade4": 1,
+    "grade5": 1,
+    "grade6": 1
+  },
+  {
+    "subject": "사회",
+    "factor": "정치",
+    "description": "민주주의, 지구촌, 국민 주권, 다수결, 시민, 국회, 행정부, 법원, 국제 기구 ",
+    "grade1": null,
+    "grade2": null,
+    "grade3": null,
+    "grade4": null,
+    "grade5": 1,
+    "grade6": 1
+  },
+  {
+    "subject": "사회",
+    "factor": "법",
+    "description": "인권, 인권 신장, 인권 보호, 헌법, 기본권, 의무, 준법, 사법, 법의 역할, 헌법재판소 ",
+    "grade1": null,
+    "grade2": null,
+    "grade3": null,
+    "grade4": null,
+    "grade5": 1,
+    "grade6": 1
+  },
+  {
+    "subject": "과학",
+    "factor": "운동과 에너지",
+    "description": "무게, 저울, 소리, 소음, 자석, 자기, 빛, 그림자, 거울, 운동, 속력, 전기, 온도",
+    "grade1": null,
+    "grade2": null,
+    "grade3": 1,
+    "grade4": 1,
+    "grade5": 1,
+    "grade6": 1
+  },
+  {
+    "subject": "과학",
+    "factor": "물질",
+    "description": "물체, 물질의 성질, 물체의 기능, 혼합물, 고체, 액체, 기체, 물, 수증기, 얼음, 연소, 소화",
+    "grade1": null,
+    "grade2": null,
+    "grade3": 1,
+    "grade4": 1,
+    "grade5": 1,
+    "grade6": 1
+  },
+  {
+    "subject": "과학",
+    "factor": "생명",
+    "description": "동물, 식물, 동물과 식물의 한살이, 구조・특징・특징, 환경, 생태계, 몸의 구조와 기능 ",
+    "grade1": null,
+    "grade2": null,
+    "grade3": 1,
+    "grade4": 1,
+    "grade5": 1,
+    "grade6": 1
+  },
+  {
+    "subject": "과학",
+    "factor": "지구",
+    "description": "지구의 모양과 표면, 화산, 지진, 지형, 지층, 화석, 물의 순환, 날씨, 자전과 공전",
+    "grade1": null,
+    "grade2": null,
+    "grade3": 1,
+    "grade4": 1,
+    "grade5": 1,
+    "grade6": 1
+  },
+  {
+    "subject": "과학",
+    "factor": "우주",
+    "description": "달, 달의 위상, 태양, 태양계, 행성, 별, 별자리, 계절, 그림자,태양 고도, 기온",
+    "grade1": null,
+    "grade2": null,
+    "grade3": 1,
+    "grade4": 1,
+    "grade5": 1,
+    "grade6": 1
+  },
+  {
+    "subject": "도덕",
+    "factor": "도덕",
+    "description": "근면, 검소, 절약, 인내, 최선, 정성, 예절, 협동, 경청, 공정, 다양성, 자주, 정직, 긍정 ",
+    "grade1": null,
+    "grade2": null,
+    "grade3": 1,
+    "grade4": 1,
+    "grade5": null,
+    "grade6": null
+  },
+  {
+    "subject": "체육",
+    "factor": "건강",
+    "description": "건강 관리, 체력 증진, 체격, 여가 활동, 성장, 운동, , 2차 성징, 식습관, 안전 사고 예방 ",
+    "grade1": null,
+    "grade2": null,
+    "grade3": 1,
+    "grade4": 1,
+    "grade5": null,
+    "grade6": null
+  },
+  {
+    "subject": "실과",
+    "factor": "직업과 기술",
+    "description": "동식물 자원 관리, 수송, 소프트웨어, 프로그래밍, 직업, 진로, 적성, 발명, 친환경, 로봇",
+    "grade1": null,
+    "grade2": null,
+    "grade3": null,
+    "grade4": null,
+    "grade5": 1,
+    "grade6": 1
+  }
+]

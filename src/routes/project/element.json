@@ -1,0 +1,233 @@
+{
+  "actions": [
+    {
+      "actionIdx": 1,
+      "action": "동영상 만들기 ",
+      "description": "영화, UCC, 뉴스, 북트레일러, 광고"
+    },
+    {
+      "actionIdx": 2,
+      "action": "발표 자료 만들기",
+      "description": "파워포인트, PDF, 패널, 구글 슬라이드"
+    },
+    {
+      "actionIdx": 3,
+      "action": "글쓰기",
+      "description": "공연 및 뉴스 대본, 책, 신문 기고"
+    },
+    {
+      "actionIdx": 4,
+      "action": "인쇄물 만들기 ",
+      "description": "책, 포스터, 전단지, 신문, 요람 "
+    },
+    {
+      "actionIdx": 5,
+      "action": "광고물 만들기 ",
+      "description": "플래카드, 배너, 상품 판촉물, 게시판"
+    },
+    {
+      "actionIdx": 6,
+      "action": "웹페이지 만들기 ",
+      "description": "홈페이지, SNS "
+    },
+    {
+      "actionIdx": 7,
+      "action": "사진 촬영하기 ",
+      "description": "인물・사물・풍경 촬영, 보정・합성 "
+    },
+    {
+      "actionIdx": 8,
+      "action": "도식화하기",
+      "description": "도표, 그래프, 차트, 마인드맵"
+    },
+    {
+      "actionIdx": 9,
+      "action": "음악으로 표현하기",
+      "description": "작곡, 작사, 편곡, 연주, 노래"
+    },
+    {
+      "actionIdx": 10,
+      "action": "미술로 표현하기 ",
+      "description": "상품 디자인, 부스・모형 제작, 그림"
+    },
+    {
+      "actionIdx": 11,
+      "action": "몸으로 표현하기",
+      "description": "연극, 춤, 마임, 뮤지컬, 인형극 "
+    },
+    {
+      "actionIdx": 12,
+      "action": "퀴즈 만들기",
+      "description": "골든벨, OX퀴즈, 스무고개, 낱말퍼즐"
+    },
+    {
+      "actionIdx": 13,
+      "action": "게임 만들기",
+      "description": "보드게임, 코딩, 전통 놀이"
+    },
+    {
+      "actionIdx": 14,
+      "action": "만화 그리기",
+      "description": "스토리보드, 만화영화, 웹툰, 이모티콘 "
+    },
+    {
+      "actionIdx": 15,
+      "action": "계획 실천하기 ",
+      "description": "일정 및 실천 결과 기록, 습관화 "
+    }
+  ],
+  "quests": [
+    {
+      "questIdx": 1,
+      "quest": "인터뷰하기 ",
+      "description": "전문가, 선생님, 기관"
+    },
+    {
+      "questIdx": 2,
+      "quest": "토의・토론하기 ",
+      "description": "주장과 근거, 의견, 평가 "
+    },
+    {
+      "questIdx": 3,
+      "quest": "자료 검색(문헌)",
+      "description": "책, 잡지, 리플렛, 신문"
+    },
+    {
+      "questIdx": 4,
+      "quest": "자료 검색(인터넷)",
+      "description": "영상, 음성, 뉴미디어"
+    },
+    {
+      "questIdx": 5,
+      "quest": "자료 분석하기",
+      "description": "목적성, 다양성, 활용성, 전달성"
+    },
+    {
+      "questIdx": 6,
+      "quest": "자료 해석하기",
+      "description": "비교와 대조, 인과, 분류, 관련짓기"
+    },
+    {
+      "questIdx": 7,
+      "quest": "자료 정리하기",
+      "description": "글, 그림, 동영상, 음원"
+    },
+    {
+      "questIdx": 8,
+      "quest": "내용 이해하기",
+      "description": "글의 내용, 맥락, 구조, 삽화 이해"
+    },
+    {
+      "questIdx": 9,
+      "quest": "내용 요약하기 ",
+      "description": "줄거리와 구성, 목차"
+    },
+    {
+      "questIdx": 10,
+      "quest": "관찰하고 기록하기",
+      "description": "글, 그림, 사진, 영상 "
+    },
+    {
+      "questIdx": 11,
+      "quest": "설문하여 조사하기 ",
+      "description": "앙케트, 설문지, 온라인"
+    },
+    {
+      "questIdx": 12,
+      "quest": "대화하기",
+      "description": "경험, 소감, 의견, 공유 "
+    },
+    {
+      "questIdx": 13,
+      "quest": "감상하기",
+      "description": "뉴스, 영화, 전시, 그림, 음악"
+    },
+    {
+      "questIdx": 14,
+      "quest": "자료 요청하기",
+      "description": "방문, SNS. 메일, 홈페이지 문의"
+    },
+    {
+      "questIdx": 15,
+      "quest": "경험하기",
+      "description": "견학, 초청, 작품 제작, 체험, 놀이 "
+    },
+    {
+      "questIdx": 16,
+      "quest": "강의 듣기 ",
+      "description": "교사, 강사, 전문가, 온라인 수업"
+    },
+    {
+      "questIdx": 17,
+      "quest": "실험・실습하기",
+      "description": "모의실험, 프로토타입 "
+    },
+    {
+      "questIdx": 18,
+      "quest": "계획 세우기",
+      "description": "실천 방법 찾기, 습관화, 동기부여"
+    }
+  ],
+  "missions": [
+    {
+      "missionIdx": 1,
+      "mission": "영상보기 ",
+      "description": "UCC, 영화, 캠페인, 뉴스 시청, 광고 "
+    },
+    {
+      "missionIdx": 2,
+      "mission": "전시회하기",
+      "description": "작품 전시(미술관, 박물관), 책 출판회 "
+    },
+    {
+      "missionIdx": 3,
+      "mission": "캠페인하기 ",
+      "description": "피켓 활동, 캠페인 공간 구성"
+    },
+    {
+      "missionIdx": 4,
+      "mission": "가상 체험하기 ",
+      "description": "모의 재판, 선거, 직업 체험 "
+    },
+    {
+      "missionIdx": 5,
+      "mission": "부스 운영하기 ",
+      "description": "축제, 박람회, 상품 판매 "
+    },
+    {
+      "missionIdx": 6,
+      "mission": "제안하기 ",
+      "description": "청원, 공청회, 기고글, 주민 참여 회의"
+    },
+    {
+      "missionIdx": 7,
+      "mission": "마음 나누기",
+      "description": "나눔 장터, 모금행사, 이웃 돕기 "
+    },
+    {
+      "missionIdx": 8,
+      "mission": "공모전 참가하기",
+      "description": "시, 그림, UCC 등 표현활동 결과물"
+    },
+    {
+      "missionIdx": 9,
+      "mission": "상품 개발하기 ",
+      "description": "시제품 설명과 평가, 아이디어 발전 "
+    },
+    {
+      "missionIdx": 10,
+      "mission": "게임하기 ",
+      "description": "온-오프라인 게임, 전통 놀이 "
+    },
+    {
+      "missionIdx": 11,
+      "mission": "발표하기",
+      "description": "경연대회, 실천 대회, 프리젠테이션 "
+    },
+    {
+      "missionIdx": 12,
+      "mission": "공연하기 ",
+      "description": "연극, 뮤지컬, 춤, 낭독회, 음악회"
+    }
+  ]
+}
